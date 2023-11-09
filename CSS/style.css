@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+
+.txt{
+   color:white;
+}
+.centrado {
+    text-align: center;
+}
+.cursiva{
+    font-style: italic;
+}
+.letra{
+    font-family: Helvetica;
+    font-size: 12px;
+    text-align: justify;   
+} 
+.centrar
+{
+    text-align: center;
+}
